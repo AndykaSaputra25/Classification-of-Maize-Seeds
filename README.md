@@ -26,5 +26,5 @@ Pre-processing is done to obtain good data that is easy to read by the system. S
 ![alt text](https://github.com/AndykaSaputra25/Classification-of-Maize-Seeds/blob/master/image/visualisasi.JPG?raw=True)
 
 #### The resulting best model is used for the interface programme.
-![alt text](https://github.com/AndykaSaputra25/Classification-of-Maize-Seeds/blob/master/image/UI.JPG?raw=True)
-![alt text](https://github.com/AndykaSaputra25/Classification-of-Maize-Seeds/blob/master/image/UIPredict.JPG?raw=True)
+![alt text](https://github.com/AndykaSaputra25/Classification-of-Maize-Seeds/blob/master/image/interface.JPG?raw=True)
+![alt text](https://github.com/AndykaSaputra25/Classification-of-Maize-Seeds/blob/master/image/predict.JPG?raw=True)
