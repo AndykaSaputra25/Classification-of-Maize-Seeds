@@ -9,3 +9,7 @@ The complete description of dataset is given on https://www.rovile.org/datasets/
 
 ## VGG-19 Modified Architecture
 ![alt text](https://github.com/AndykaSaputra25/Classification-of-Maize-Seeds/blob/master/image/arsitektur.JPG?raw=True)
+
+## Preprocessing
+Pre-processing is done to obtain good data that is easy to read by the system. Since there are imbalanced data, the data is used proportionally based on the least amount of data or undersampling on imbalanced data for research experiments. This technique adjusts the amount of data according to the least amount of data randomly in data selection. In accordance with the size of the VGG-19, the image size was changed to 224x224 pixels. The division of testing data is 20% and training 80%. The training data is further divided into 80% training and 20% validation.
+
