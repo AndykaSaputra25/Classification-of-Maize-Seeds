@@ -1,0 +1,13 @@
+body {
+    color: #fff;
+    background-color: #ff8720;
+}
+.logo {
+    height: 150px;
+}
+.pred {
+    font-size: 32px;
+    font-weight: bold;
+    color: goldenrod;
+    text-align: center;
+}
