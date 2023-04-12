@@ -5,7 +5,7 @@ Agricultural products, especially maize, are significant for cultivation in Indo
 
 ## Dataset
 The complete description of dataset is given on https://www.rovile.org/datasets/haploid-and-diploid-maize-seeds-dataset/ The dataset contains 3000 images of maize seeds.
-![alt text](https://github.com/AndykaSaputra25/Classification-of-Maize-Seeds/blob/master/image/dataset.JPG?raw=True)
+![alt text](https://github.com/AndykaSaputra25/Classification-of-Maize-Seeds/blob/master/image/dataset.jpg?raw=True)
 
 ## VGG-19 Modified Architecture
 ![alt text](https://github.com/AndykaSaputra25/Classification-of-Maize-Seeds/blob/master/image/arsitektur.JPG?raw=True)
